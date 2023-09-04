@@ -618,5 +618,6 @@ cite {
   font-weight: bold;
 }
 .footer-body nav {
+  text-align: center;
   margin: auto;
 }
