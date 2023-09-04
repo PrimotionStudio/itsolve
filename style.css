@@ -617,7 +617,15 @@ cite {
 .footer-text {
   font-weight: bold;
 }
-.footer-body nav {
-  text-align: center;
+.footer-body ul {
+  display: flex;
   margin: auto;
+}
+.footer-text {
+  padding: 3rem;
+  font-weight: normal;
+}
+.footer-socials img {
+  background-color: transparent;
+  margin: 0 3rem;
 }
