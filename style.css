@@ -617,15 +617,14 @@ cite {
 .footer-text {
   font-weight: bold;
 }
-.footer-body ul {
-  display: flex;
-  margin: auto;
-}
-.footer-text {
+#footer > .footer-body > .footer-text {
   padding: 3rem;
   font-weight: normal;
 }
-.footer-socials img {
+#footer > .footer-body > .footer-socials img {
   background-color: transparent;
   margin: 0 3rem;
+}
+.footer-body .nav {
+  margin: 0 30rem;
 }
